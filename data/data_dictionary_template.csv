@@ -1,0 +1,2 @@
+dataset_name,field_name,data_type,unit_or_allowed_values,definition,source_or_provenance,missing_value_convention,notes
+<dataset>,<field>,<type>,<unit or categories>,<verified definition>,<source>,<e.g. blank/NA/unknown>,<optional>
